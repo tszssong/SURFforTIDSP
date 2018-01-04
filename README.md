@@ -9,4 +9,5 @@ ccs安装路径最好别有空格和特殊字符，会导致编译无法生成.l
 很多问题可以通过修改堆栈大小解决：properties->build->c6000 linker->basic options
 
 --------------
-如果参数设置相同，c程序运行结果会和matlab程序example2.m完全一致
+SURF里是网上找到的一份matlab代码，流传的基本是这个版本，自己根据实验改了一部分
+如果参数设置相同，c程序运行结果会和matlab程序SURF/example2.m完全一致
